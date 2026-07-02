@@ -1,0 +1,6 @@
+{
+  "name": "Abul's Healing Journey",
+  "description": "An indie retro pixel-art browser game built for relaxation, healing, and play. Features 5 relaxing mini-games, achievement systems, virtual garden development, secret letter unlocks, and a custom reward system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
