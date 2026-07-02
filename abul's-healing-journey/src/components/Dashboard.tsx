@@ -300,7 +300,7 @@ export default function Dashboard({ gameState, onUpdateState, onAddLog, logs, on
           </div>
 
           <div className="bg-purple-950/15 border border-purple-850/40 p-2.5 rounded-md text-[9px] text-purple-300 leading-normal font-sans">
-            Abul siap menemanimu bersantai di tengah hiruk pikuk kesibukan harian. Nikmati musik santai dan bermainlah dengan tenang tanpa terburu-buru!
+            Abuyy siap menemanimu bersantai di tengah hiruk pikuk kesibukan harian. Nikmati musik santai dan bermainlah dengan tenang tanpa terburu-buru!
           </div>
         </div>
 
